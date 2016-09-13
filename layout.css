@@ -1,0 +1,54 @@
+body
+{
+	background-color: #4ABBC7;
+}
+
+.header
+{
+	max-width: 500px;
+	margin: 0 auto;
+	top: 200px;
+	bottom: 800px;
+	padding: 30px 800px;
+	position: fixed;
+  	top: 0;
+  	width: 200px;
+  	background-color: #FCD89D;
+	position: fixed;
+}
+#title
+{
+	font-family: 'Architects Daughter', cursive;
+	font-size: 48px;
+	margin: 0 auto;
+	position: fixed;
+	max-width: 500px;
+}
+#aboutme
+{
+	margin-right:800px;
+	margin-top: 150px;
+	font-family: 'Architects Daughter', cursive;
+	max-width: 500px;
+	background-color: white;
+	/*this is a comment*/
+}
+#sports
+{
+	margin-right:800px;
+	margin-bottom: 100px;
+	font-family: 'Architects Daughter', cursive;
+	max-width: 500px;
+	background-color: white;
+}
+#futureplans
+{
+	left:1100px;
+	bottom: 550px;
+	font-family: 'Architects Daughter', cursive;
+	max-width: 500px;
+	position: relative;
+	background-color: white;
+
+
+}
