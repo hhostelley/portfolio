@@ -47,7 +47,7 @@ body
 	bottom: 550px;
 	font-family: 'Architects Daughter', cursive;
 	max-width: 500px;
-	position: relative;
+	position: fixed;
 	background-color: white;
 
 
@@ -58,6 +58,6 @@ body
 	bottom: 550px;
 	font-family: 'Architects Daughter', cursive;
 	max-width: 500px;
-	position: relative;
+	position: fixed;
 	background-color: white;
 }
