@@ -20,7 +20,8 @@ body
 {
 	font-family: 'Architects Daughter', cursive;
 	font-size: 48px;
-	margin: 0 auto;
+	left: 700px;
+	top: 0px;
 	position: fixed;
 	max-width: 500px;
 }
@@ -47,17 +48,24 @@ body
 	bottom: 550px;
 	font-family: 'Architects Daughter', cursive;
 	max-width: 500px;
-	position: fixed;
+	position: relative;
 	background-color: white;
 
 
 }
-#filler
+#family
 {
 	left:1100px;
 	bottom: 550px;
 	font-family: 'Architects Daughter', cursive;
 	max-width: 500px;
-	position: fixed;
+	position: relative;
 	background-color: white;
+}
+#beach
+{
+	height: 700px;
+	position: fixed;
+	left: 570px;
+	top: 150px;
 }
